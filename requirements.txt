@@ -1,0 +1,4 @@
+selenium
+BeautifulSoup
+aigram==3.13.1
+geckodriver(Firefox)
